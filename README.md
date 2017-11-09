@@ -7,4 +7,5 @@
 
 - https://github.com/stakenschneider/validationService.git
 - https://github.com/kafferty/json_validation (Городничева Лидия)
+- https://github.com/AleksanderBoldyrev/JSON_Val
 -
