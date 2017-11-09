@@ -7,4 +7,4 @@
 
 - https://github.com/stakenschneider/validationService.git
 -
--
+- [Максим Зайцев](https://github.com/MaksimZaitsev/jvs)
