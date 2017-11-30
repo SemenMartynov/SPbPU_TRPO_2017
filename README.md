@@ -10,6 +10,7 @@
 - https://github.com/stakenschneider/validationService.git
 - https://github.com/kafferty/json_validation Городничева Лидия
 - https://github.com/AleksanderBoldyrev/JSON_Val
+- https://github.com/DDHunter13/Json Беседин Денис
 - https://github.com/ImpactHammer/jsonValidator Коренёк Григорий
 - https://github.com/AndreiChugunov/jsonvalidator Чугунов Андрей
 - https://github.com/Lorismelik/JSON_validator Ерниязов Тимур
