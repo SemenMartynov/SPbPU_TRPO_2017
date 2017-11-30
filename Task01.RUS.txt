@@ -31,7 +31,7 @@
 
 Примеры:
 Запуск контейнера с сервисом
-docker run -d -p 80:80 github.com/username/projectname
+docker build -t validation-service github.com/username/projectname && docker run -d --rm -p 80:80 validation-service
 
 Отправка файла на валидацию
 curl -s --data-binary @filename.json http://localhost
