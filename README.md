@@ -16,5 +16,6 @@
 - https://github.com/Lorismelik/JSON_validator Ерниязов Тимур
 - https://github.com/MaksimZaitsev/jvs Максим Зайцев
 - https://github.com/mirragato/json Ревкина Ирина
+- https://github.com/iOctav/json_validator/ Черевичник Андрей
 - https://github.com/iOctav/json_validator/tree/gradle_build Черевичник Андрей
 - https://github.com/physhock/prX2jason Школьников Федор
