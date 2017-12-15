@@ -2,6 +2,8 @@
 
 - Docker https://www.slideshare.net/SemenMartynov/software-engineering-seminars-docker
 - git https://www.slideshare.net/SemenMartynov/software-engineering-seminars-git
+- gradle https://www.slideshare.net/SemenMartynov/software-engineering-seminars-gradle
+- jira https://www.slideshare.net/SemenMartynov/software-engineering-seminars-jira
 
 # Repositories for check
 
