@@ -5,8 +5,11 @@
 - gradle https://www.slideshare.net/SemenMartynov/software-engineering-seminars-gradle
 - jira https://www.slideshare.net/SemenMartynov/software-engineering-seminars-jira
 
-# Repositories for check
+# Attendance
 
+- https://goo.gl/PE5rAS
+
+# Repositories for check
 
 - https://github.com/MikhailMe/json_formatter Медведев Михаил
 - https://github.com/stakenschneider/validationService.git Волкова Мария
