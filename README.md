@@ -11,6 +11,10 @@
 
 # Repositories for check
 
+- https://github.com/stakenschneider/validationService.git
+- https://github.com/kafferty/json_validation Городничева Лидия
+- https://github.com/AleksanderBoldyrev/JSON_Val Александр Болдырев
+- https://github.com/vovasq/json_validation Балсутьев Владимир
 - https://github.com/MikhailMe/json_formatter Медведев Михаил
 - https://github.com/stakenschneider/validationService.git Волкова Мария
 - https://github.com/kafferty/json_validation Городничева Лидия
