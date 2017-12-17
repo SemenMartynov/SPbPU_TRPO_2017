@@ -4,6 +4,7 @@
 - git https://www.slideshare.net/SemenMartynov/software-engineering-seminars-git
 - gradle https://www.slideshare.net/SemenMartynov/software-engineering-seminars-gradle
 - jira https://www.slideshare.net/SemenMartynov/software-engineering-seminars-jira
+- jenkins https://www.slideshare.net/SemenMartynov/software-engineering-seminars-jenkins
 
 # Attendance
 
