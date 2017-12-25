@@ -39,3 +39,5 @@
 - https://github.com/loverus/lab_TRPO Мануйлова Мария
 - https://github.com/Yehuk/json_validator Горляк Никита
 - https://github.com/Gradergage/JsonValidator.git Покатило Павел
+- https://github.com/Sagadeyeva/json-checker Сагадеева Светлана
+- https://github.com/OlesyaIv/jsonValidator Ивашкевич Олеся
