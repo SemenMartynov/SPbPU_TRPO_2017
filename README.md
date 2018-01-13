@@ -42,3 +42,4 @@
 - https://github.com/OlesyaIv/jsonValidator Ивашкевич Олеся
 - https://github.com/temnovochka/jsonvalidator Темнова Анастасия
 - https://github.com/kseniyagolovina/TRPO Головина Ксения
+- https://github.com/ShuvalovPavel/json_validator Шувалов Павел
