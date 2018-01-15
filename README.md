@@ -36,6 +36,7 @@
 - https://github.com/alexandervashurov/json_form Вашуров Александр
 - https://github.com/kotmakrus/Glazkov_Sergey_43501_4_Homework Глазков Сергей
 - https://github.com/autoriga/json-validator Парамзин Валентин
+- https://github.com/oananjeva/trpo Ананьева Оксана
 - https://github.com/loverus/lab_TRPO Мануйлова Мария
 - https://github.com/Yehuk/json_validator Горляк Никита
 - https://github.com/Gradergage/JsonValidator.git Покатило Павел
