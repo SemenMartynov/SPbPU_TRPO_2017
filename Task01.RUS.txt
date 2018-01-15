@@ -34,7 +34,7 @@
 docker build -t validation-service github.com/username/projectname && docker run -d --rm -p 80:80 validation-service
 
 Отправка файла на валидацию
-curl -s --data-binary @filename.json http://localhost
+curl -s --upload-file filename.json http://localhost
 
 Пример ответа сервиса в случае ошибки
 
