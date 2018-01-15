@@ -32,6 +32,7 @@
 - https://github.com/DeveloperHacker/Json-format-server.git Воробьёв Сергей
 - https://github.com/AlNadraga/TRPO Надрага Александр
 - https://github.com/loskiti/HT_JSON.git Лосева Екатерина
+- https://github.com/ohtanii/trpo_json Орешина Татьяна
 - https://github.com/alexandervashurov/json_form Вашуров Александр
 - https://github.com/kotmakrus/Glazkov_Sergey_43501_4_Homework Глазков Сергей
 - https://github.com/autoriga/json-validator Парамзин Валентин
