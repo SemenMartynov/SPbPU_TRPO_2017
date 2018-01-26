@@ -47,3 +47,4 @@
 - https://github.com/ShuvalovPavel/json_validator Шувалов Павел
 - https://github.com/kseniyagolovina/TRPO Головина Ксения
 - https://github.com/beloglazovme/json_validation Белоглазов Кирилл
+- https://github.com/DanilovArt/jsonValidator Данилов Артем
